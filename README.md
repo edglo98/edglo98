@@ -1,6 +1,6 @@
 <img src="./assets/banner.jpg" alt="edglo banner" />
 
-# Bienvenido a mi Github, soy Edgar Lopez 👋🏼
+# Bienvenido a mi Github, soy Edgar López 👋🏼
 
 📌 Mérida, Yucatán.
 
@@ -11,9 +11,9 @@
 📕 Me encuentro profundizando en el funcionamiento de ***JavaScript*** para ***optimizar proyectos*** escritos en este lenguaje y aprendiendo ***Rust*** para el desarrollo de ***herramientas de programación***.
 
 ### ¿Algun proyecto o comunidad?
-👀 Me encantaría ***colaborar en proyectos de codigo abierto*** y actualemente me encuentro ***buscando*** donde pueda hechar una mano y mejorar como desarrollador.
+👀 Me encantaría ***colaborar en proyectos de código abierto*** y actualmente me encuentro ***buscando*** donde pueda echar una mano y mejorar como desarrollador.
 
-☕️ Si te gustaría ponerte en contacto o tomar un café  conmigo aquí te dejo mis redes sociales.
+☕️ Si te gustaría ponerte en contacto o tomar un café  conmigo, aquí te dejo mis redes sociales.
 
 <p align="center">
 <a href="https://www.twitch.tv/edglo" target="blank" style="margin: 0 8px;">
@@ -31,11 +31,11 @@
 </p>
 
 
-☝🏼 Me encanta aprender sobre ***ciencia y tecnología***, soy un poco inquieto así que paso parte de mi tiempo estudiando y practicando con ***proyectos propios o cursos***, como podras ver en mis repositorios. A veces me gusta ***compartir mi aprendizaje*** y mi gusto por los videojuegos en mis redes.
+☝🏼 Me encanta aprender sobre ***ciencia y tecnología***, soy un poco inquieto así que paso parte de mi tiempo estudiando y practicando con ***proyectos propios o cursos***, como podrás ver en mis repositorios. A veces me gusta ***compartir mi aprendizaje*** y mi gusto por los videojuegos en mis redes.
 
 <p align="center">
-<img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="140"/>
-<img src="./assets/elliot.gif" alt="Mr Robot Elliott Alderson GIF" height="140"/>
+<img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="155"/>
+<img src="./assets/elliot.gif" alt="Mr Robot Elliott Alderson GIF" height="155"/>
 </p>
 
 ### ¡Encantado de conocerte! ☺️
