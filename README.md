@@ -31,7 +31,7 @@
 </p>
 
 
-☝🏼 Me encanta aprender sobre ***ciencia y tecnología***, soy un poco inquieto así que paso mucho tiempo estudiando y practicando con ***proyectos propios o cursos***, como podras ver en mis repositorios. A veces me gusta ***compartir mi aprendizaje*** y mi gusto por los videojuegos.
+☝🏼 Me encanta aprender sobre ***ciencia y tecnología***, soy un poco inquieto así que paso parte de mi tiempo estudiando y practicando con ***proyectos propios o cursos***, como podras ver en mis repositorios. A veces me gusta ***compartir mi aprendizaje*** y mi gusto por los videojuegos en mis redes.
 
 <p align="center">
 <img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="140"/>
