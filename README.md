@@ -1,17 +1,17 @@
 <img src="./assets/banner.jpg" alt="edglo banner" />
 
-# Bienvenido a mi Github, soy Edgar López 👋🏼
+## Bienvenido a mi Github, soy Edgar López 👋🏼
 
 📌 Mérida, Yucatán.
 
-### Soy *ingeniero en software* con *tres años de experiencia* profesional.
+Soy **ingeniero en software** con **tres años de experiencia** profesional.
 
-👨🏻‍💻 Actualmente tengo 24 años y me encuentro ***trabajando con React y React Native*** para una startup llamada Ecubi.
+👨🏻‍💻 Actualmente tengo 24 años y me encuentro **trabajando con React y React Native** para una startup llamada Ecubi.
 
-📕 Me encuentro profundizando en el funcionamiento de ***JavaScript*** para ***optimizar proyectos*** escritos en este lenguaje y aprendiendo ***Rust*** para el desarrollo de ***herramientas de programación***.
+📕 Me encuentro profundizando en el funcionamiento de **JavaScript** para **optimizar proyectos** escritos en este lenguaje y aprendiendo **Rust** para el desarrollo de **herramientas de programación**.
 
 ### ¿Algun proyecto o comunidad?
-👀 Me encantaría ***colaborar en proyectos de código abierto*** y actualmente me encuentro ***buscando*** donde pueda echar una mano y mejorar como desarrollador.
+👀 Me encantaría **colaborar en proyectos de código abierto** y actualmente me encuentro **buscando** donde pueda echar una mano y mejorar como desarrollador.
 
 ☕️ Si te gustaría ponerte en contacto o tomar un café  conmigo, aquí te dejo mis redes sociales.
 
@@ -31,7 +31,7 @@
 </p>
 
 
-☝🏼 Me encanta aprender sobre ***ciencia y tecnología***, soy un poco inquieto así que paso parte de mi tiempo estudiando y practicando con ***proyectos propios o cursos***, como podrás ver en mis repositorios. A veces me gusta ***compartir mi aprendizaje*** y mi gusto por los videojuegos en mis redes.
+☝🏼 Me encanta aprender sobre **ciencia y tecnología**, soy un poco inquieto así que paso parte de mi tiempo estudiando y practicando con **proyectos propios o cursos**, como podrás ver en mis repositorios. A veces me gusta **compartir mi aprendizaje** y mi gusto por los videojuegos en mis redes.
 
 <p align="center">
 <img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="155"/>
