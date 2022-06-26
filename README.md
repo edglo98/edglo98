@@ -11,8 +11,8 @@ Soy **ingeniero en software** con más de **dos años de experiencia**.
 Me encanta aprender sobre **ciencia y tecnología**, soy un poco inquieto así que paso mucho tiempo estudiando y practicando con **proyectos propios o cursos**, como podras ver en mis repositorios. 
 
 <p align="center">
-<img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="200"/>
-<img src="./assets/elliot.gif" alt="Mr Robot Elliott Alderson GIF" height="200"/>
+<img src="./assets/mrrobot.gif" alt="Mr Robot Edward Alderson GIF" height="140"/>
+<img src="./assets/elliot.gif" alt="Mr Robot Elliott Alderson GIF" height="140"/>
 </p>
 
 A veces me gusta **compartir en redes sociales** mi aprendizaje y mi gusto por los videojuegos.
